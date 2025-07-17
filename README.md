@@ -50,7 +50,7 @@ Every project teaches me something — and I’m proud of how far I’ve come by
 
 ## 🙌 Connect
 - 📫 Email: `Dhanushhyd25@gmail.com`
-- 💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/dhanush-ginkala)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dhanush-ginkala/)
 
 
 ---
