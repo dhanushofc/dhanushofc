@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Dhanush
+# 👋 Hey, I'm Dhanush Ginkala
 
 > Just a curious CSE student who builds stuff by Googling, vibe-coding, and figuring things out 😄
 
@@ -50,7 +50,8 @@ Every project teaches me something — and I’m proud of how far I’ve come by
 
 ## 🙌 Connect
 - 📫 Email: `Dhanushhyd25@gmail.com`
-- 💼 LinkedIn: [your-link-here]
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dhanush-ginkala-129663255)
+
 
 ---
 
