@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dhanush Ginkala
 
-> Just a curious CSE student who builds stuff by Googling, vibe-coding, and figuring things out 😄
+> Just a curious CSE student who builds stuff by Googling and figuring things out 😄
 
 ---
 
