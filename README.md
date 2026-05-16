@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 3rd year B.Tech CSE student  
+- 🎓 B.Tech CSE student  
 - 🧩 Not a pro — just someone who enjoys solving problems with code  
 - 🌐 I mostly build web apps by mixing what I learn from YouTube, docs, and random Stack Overflow posts  
 - 📚 Still learning every day, and trying to get a little better with each project
