@@ -72,9 +72,3 @@ B.Tech CSE graduate from **ICFAI Foundation for Higher Education (IFHE)** with e
 | **Manim Templates** | Contributed educational math animations (Grades 1–8) to Skillbanc/manim-templates. Created Manim-based animation templates for geometry, measurement, and symmetry — 10+ merged PRs. | Python, Manim | [Upstream](https://github.com/Skillbanc/manim-templates) / [Fork](https://github.com/dhanushofc/manim-templates) |
 
 ---
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dhanushofc&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=dhanushofc&theme=catppuccin-mocha&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushofc&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
