@@ -1,3 +1,5 @@
+# 👋 Dhanush Ginkala
+
 # 💫 About Me
 
 B.Tech CSE graduate from **ICFAI Foundation for Higher Education (IFHE)** with experience in deep learning, computer vision, and full-stack development. Worked on SST forecasting at **INCOIS** using ConvLSTM, Chronos, and Granite models. Also contributed educational math animation templates to **Skillbanc** using Manim.
@@ -12,12 +14,12 @@ B.Tech CSE graduate from **ICFAI Foundation for Higher Education (IFHE)** with e
 **INCOIS** — *Deep Learning Intern*
 - Built ConvLSTM, Chronos, and Granite models for Sea Surface Temperature forecasting over the Arabian Sea
 - Designed a 4-stage post-processing pipeline with NetCDF4 oceanographic data
--> [`SatelliteGAN`](https://github.com/dhanushofc/SatelliteGAN)
+[![Repo](https://img.shields.io/badge/Repo-181717?logo=github&logoColor=white)](https://github.com/dhanushofc/SatelliteGAN)
 
 **Skillbanc** — *Educational Content Contributor*
 - Created Manim-based math animation templates for Grades 1–8 covering geometry, measurement, and symmetry
 - 10+ merged pull requests
--> [`manim-templates`](https://github.com/Skillbanc/manim-templates)
+[![Repo](https://img.shields.io/badge/Repo-181717?logo=github&logoColor=white)](https://github.com/Skillbanc/manim-templates)
 
 ---
 
