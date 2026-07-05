@@ -1,5 +1,7 @@
 # 👋 Dhanush Ginkala
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Cinematic--Dossier-blueviolet?style=for-the-badge)](https://portfolio-eta-woad-62.vercel.app/)
+
 # 💫 About Me
 
 B.Tech CSE graduate from **ICFAI Foundation for Higher Education (IFHE)** with experience in deep learning, computer vision, and full-stack development. Worked on SST forecasting at **INCOIS** using ConvLSTM, Chronos, and Granite models. Also contributed educational math animation templates to **Skillbanc** using Manim.
